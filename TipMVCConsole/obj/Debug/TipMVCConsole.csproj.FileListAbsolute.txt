@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1212-1\Desktop\Gbt\TipMVCConsole\TipMVCConsole\bin\Debug\TipMVCConsole.exe.config
+C:\Users\STUDENTS-1212-1\Desktop\Gbt\TipMVCConsole\TipMVCConsole\bin\Debug\TipMVCConsole.exe
+C:\Users\STUDENTS-1212-1\Desktop\Gbt\TipMVCConsole\TipMVCConsole\bin\Debug\TipMVCConsole.pdb
+C:\Users\STUDENTS-1212-1\Desktop\Gbt\TipMVCConsole\TipMVCConsole\obj\Debug\TipMVCConsole.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-1\Desktop\Gbt\TipMVCConsole\TipMVCConsole\obj\Debug\TipMVCConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1212-1\Desktop\Gbt\TipMVCConsole\TipMVCConsole\obj\Debug\TipMVCConsole.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-1\Desktop\Gbt\TipMVCConsole\TipMVCConsole\obj\Debug\TipMVCConsole.exe
+C:\Users\STUDENTS-1212-1\Desktop\Gbt\TipMVCConsole\TipMVCConsole\obj\Debug\TipMVCConsole.pdb
